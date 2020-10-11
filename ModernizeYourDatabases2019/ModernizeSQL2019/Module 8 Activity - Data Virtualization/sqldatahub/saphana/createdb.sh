@@ -1,1 +1,0 @@
-hdbsql -i90 -Icreatedb.sql -uSYSTEM -pCprsql2019 -dVANDELAY
